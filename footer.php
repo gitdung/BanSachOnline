@@ -8,7 +8,7 @@
 						<p>Nhà sách online với rất nhiều đầu sách hấp dẫn cho bạn đọc lựa chọn.</p>
 					</div>
 					</div>
-					<p><span class="glyphicon glyphicon-home"></span>Hà Nội, Việt Nam.</p>
+					<p><span class="glyphicon glyphicon-home"></span>Đà Nẵng, Việt Nam.</p>
 					
 			</div>
 		</div>
